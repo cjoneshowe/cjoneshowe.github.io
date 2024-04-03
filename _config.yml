@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : #"Your Sidebar Name"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "New York"
   employer         : "University at Albany"
