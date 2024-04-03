@@ -11,54 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Technology and Learning, University of Albany, State University of New York, 2027 (expected)
+* M.Ed. in Educational Technology Specialist, College of Saint Rose, 2014
+* B.T. in Educational Technology, SUNY Cobleskill, 2010
+* A.S. in Information Management, Dutchess Community College
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2020-Current: Senior IT Suppor Administrator
+  * Dutchess Community College
+  * Duties includes: 
+  * Supervisor: Alex Valentin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2020-Current: Adjunct Professor 
+  * Dutchess Community College
+  * Duties included: 
+  * Supervisor: PJ Darcy
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* December 2017-September 2019: Technology Coordinator
+  * Mechanicville Central School District
+  * Duties included: 
+  * Supervisor: William Williams
+
+* November 2015-December 2017:  School Technologist
+  * Shenendehowa Central School District
+  * Duties included: 
+  * Supervisor: Kenneth McDermith
+
+* January 2016-January 2020: Adjunct Professor 
+  * The College of Saint Rose
+  * Duties included: 
+  * Supervisor: Dr Ian MacDonald
+
+* August 2014-November 2105: Program Coordinator
+  * Northeastern Regional Information Center
+  * Duties included: 
+  * Supervisor: John Wyld
+
+* December 2011-August 2014: Microcomputer Specialist
+  * WSWHE Board of Cooperative Education Services
+  * Duties included: 
+  * Supervisor: Erwin Brace
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* NYS Certified Teacher: Technology Education (K-12)
+* Windows Desktop
+* Apple OSX
+* Linux OS
+* Chrome OS
+* Google Admin Console
+* Network Design
+* Hardware/Software 
+* Project Management
+* Virtualization
+* Network Analysis & Administration
+* Web Design
