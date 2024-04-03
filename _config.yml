@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "CJH / Test Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "C J H"
 description              : &description "personal description"
 url                      : https://cjoneshowe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/background" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : #"Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "New York"
   employer         : "University at Albany"
