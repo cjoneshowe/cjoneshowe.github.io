@@ -1,9 +1,10 @@
 ---
+layout:  archive
 permalink: /background/
-title: "Crystal Jones-Howe - PhD Student"
+title: "Background"
 author_profile: true
 redirect_from: 
-  - /background/
+  - /background
 ---
 Crystal Jones-Howe is a dedicated professional with a passion for education and technology.  Her academic journey reflects her commitment to lifelong learning. 
 
