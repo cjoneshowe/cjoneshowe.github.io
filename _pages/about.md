@@ -1,49 +1,27 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A Girl and Her Gadgets"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Introduction
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Hello and welcome to my page.  My name is Crystal Jones-Howe and I am a 3rd year part-time PhD student at the University at Albany, State University of New York. My primary specialization is a self-designed study in Technology in Education, with a secondary specialization on Information in Organizational Environments.<br/><br/>
+My passion for technology started at a young age as I was known for taking things apart and wanting to create.  However, the true possibility of technology's impact occurred during my early teens when I first came in contact with this budding technology called the Internet.  <br/><br/>
+I credit the internet for changing the trajectory of my life and I have been fortunate enough to see its growth and impact on the world.  It expanded my worldview and opened my future to previously unimaginable possibilities. <br/><br/>
+I reside in the beautiful Hudson Valley with my husband, my daughter, our two adorable dogs, and one grumpy but spoiled cat.  I am a Sr. IT Support Administrator at Dutchess Community College. I manage the student-staffed helpdesk and mentor the students as they start their journey into their technology careers.  <br/>
+<br/>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+More About Me
+-----
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I was born and raised in Brooklyn, NY, to an immigrant mother and African-American Navy vet father, the youngest of their three children.  Unfortunately, I lost my father at a young age and watched as my mother worked hard to still provide a life and instill the importance of education in the three of us. <br/><br/>
+Adding much to her stress, she soon found that my uninhibited imagination and dextrous fingers could not be stopped when wanting to figure out how something worked.  I was drawn to what, at the time, would be considered the more "boyish" hobbies of science and tech toys, superheroes, and action cartoons. While I had my fair share of Barbies, it was clear my interests were broader than what was presented to me.<br/><br/>
+At the age of 13, I gained access to my older sister's college laptop.  Little did everyone know how that would change my life.  In a time of chat rooms and talkers, I met, spoke, and collaborated with people across the US and the entire globe.   Things I have only seen on TV and in movies took on a new reality of something obtainable, creating a desire to see and (more importantly) understand these things for myself.  <br/><br/>
+I was exposed to like-minded individuals with vastly different experiences than I had grown up with, which contributed to the scope of my imagination.  I learned more about computer science and what others could do, quickly absorbing and researching everything I could comprehend.  While I was still limited in my access, that didn't stop my curiosity so i took any opportunity to learn and grow that I could find. <br/><br/>
+As I continued in my education, it was interesting to see the path that I thought I clearly imagined was broadened by the many available careers in technology.  Though I did not understand things like "learning styles," I understood that I was a very "hands-on" learner, which led me to focus on Hardware Support and Network Administration.  To this day I still love getting my hands on tech and being able to rebuild and reconfigure.  <br/><br/>
+Fortunately, with the help of some wonderful instructors, I got to reflect on my journey and realize the events that led me to where I was.  However, looking around, I also saw how technology was utilized and the disparity evident in the educational sector.  Younger "me's" had technology in their hands, but they had no real understanding of what it could do and how it could help.  They were not being prepared for the world as it has evolved.  While I was fortunate to be around as the internet developed, most underrepresented communities are not properly given the tools to utilize technology as it is created today.  Both the pros and cons of such a vastly important necessity to operate in today's society. <br/> <br/>
