@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile.png"
   name             : #"Who Am I?"
   pronouns         : "she/her"  
   bio              : #"Crystal Jones-Howe is a Ph.D. student at the University at Albany, State University of New York. She is interested in understanding how gamification impacts the adoption of cybersecurity practices among underrepresented students in higher education and what are the most effective strategies for promoting cybersecurity awareness and behavior change among those students."
   location         : "New York"
   employer         : #"SUNY at Albany"
-  uri              : #"https://cjoneshowe.com/"
+  uri              : #"https://www.cjoneshowe.com/"
   email            : "cjones-howe@albany.edu" 
 
   # Academic websites
