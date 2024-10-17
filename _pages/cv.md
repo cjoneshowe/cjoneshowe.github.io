@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* January 2020-Current: Senior IT Suppor Administrator
+* January 2020-September 2024: Senior IT Suppor Administrator
   * Dutchess Community College
   * Duties includes: 
   * Supervisor: Alex Valentin
