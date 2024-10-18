@@ -13,7 +13,7 @@ Crystal Jones-Howe is a dedicated professional with a passion for education and 
 Currently, Crystal is pursuing her doctorate at the University at Albany, State University of New York. Part of the College of Emergency Preparedness, Homeland Security and Cybersecurity (CEHC). the PhD program is a collaborative program incorporating the College of Nanotechnology, Science and Engineering (CNSE), the School of Business, the College of Arts and Science, the Rockefeller College of Public Affairs and Policy, and the School of Education.
 
 
-Currently in her 2nd year, Crystal’s focus in her doctoral program is a self-designed study in Technology and Learning, with a secondary focus on Information in Organizational Environments. Her research hopes to understand the impact of technology on under-represented communities, with a particular focus on cybersecurity in higher education settings. 
+Currently in her 3rd year, Crystal’s focus in her doctoral program is a self-designed study in Technology and Learning, with a secondary focus on Information in Organizational Environments. Her research hopes to understand the impact of technology on under-represented communities, with a particular focus on cybersecurity in higher education settings. 
 
 
 Crystal also holds a master’s in education in as an Educational Technology Specialist from the College of Saint Rose in Albany where her focus was on leveraging technology to create effective learning experiences.  In conjunction with her Bachelor of Technology in Network Administration from SUNY Cobleskill where her technical acumen and problem-solving skills ser her apart. Crystal also received her Associate of Science at Dutchess Community College, where her love of and strong educational foundation began. 
