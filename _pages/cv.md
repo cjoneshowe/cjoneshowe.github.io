@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Technology and Learning, University of Albany, State University of New York, 2027 (expected)
 * M.Ed. in Educational Technology Specialist, College of Saint Rose, 2014
-* B.T. in Educational Technology, SUNY Cobleskill, 2010
+* B.T. in Network Administration, SUNY Cobleskill, 2010
 * A.S. in Information Management, Dutchess Community College
 
 Work experience
