@@ -18,15 +18,20 @@ Education
 
 Work experience
 ======
-* January 2020-September 2024: Senior IT Suppor Administrator
-  * Dutchess Community College
-  * Duties includes: 
-  * Supervisor: Alex Valentin
-
+* September 2020-Current: Adjunct Professor 
+  * SUNY at Albany
+  * Duties included: 
+  * Supervisor: Dr. Ariel Pinto
+  
 * September 2020-Current: Adjunct Professor 
   * Dutchess Community College
   * Duties included: 
   * Supervisor: PJ Darcy
+  
+* January 2020-September 2024: Senior IT Suppor Administrator
+  * Dutchess Community College
+  * Duties includes: 
+  * Supervisor: Alex Valentin
 
 * December 2017-September 2019: Technology Coordinator
   * Mechanicville Central School District
