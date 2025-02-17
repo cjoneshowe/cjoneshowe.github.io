@@ -3,7 +3,7 @@ title: 'Cybersecurity and Why It Matters'
 date: 2025-02-14
 permalink: /posts/2025/02/cyberhygieneandwhyitmatters/
 tags:
-  - Cyber Hygienea
+  - Cyber Hygiene
   - Cybersecurity
   - Ethical AI
   - Education
