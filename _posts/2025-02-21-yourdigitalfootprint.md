@@ -77,5 +77,5 @@ The internet can be an amazing place, but it **never forgets**. Instead of feari
 
 So, next time you’re about to hit “post,” ask yourself—*Is this something I’d be proud of five years from now?*
 
-What are your thoughts on digital footprints? Have you ever found something surprising about yourself online? Drop a comment and let’s chat!
+What are your thoughts on digital footprints? Have you ever found something surprising about yourself online? 
 
