@@ -1,5 +1,5 @@
 ---
-title: 'Your Digital Footprint: What Students Need to Know Before Hitting "Post"'
+title: 'Your Digital Footprint: What Students Need to Know Before Hitting Post'
 date: 2025-02-21
 permalink: /posts/2025/02/yourdigitalfootprint/
 tags:
