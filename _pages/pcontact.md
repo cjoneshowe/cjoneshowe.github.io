@@ -46,6 +46,19 @@ author_profile: false
     font-size: 0.95em;
     line-height: 1.5;
   }
+  .pcontact-link-btn {
+    background-color: #FFFFFF;
+    color: #007CB0;
+    border: 1px solid #007CB0;
+    border-radius: 6px;
+    padding: 0.4em 0.8em;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0.3em 0;
+  }
+  .pcontact-link-btn:hover {
+    background-color: #F5FAFC;
+  }
 </style>
 
 <div id="pcontact-wrap" markdown="0">
@@ -58,12 +71,24 @@ author_profile: false
     <strong>Crystal Jones-Howe</strong><br>
     Smart Solutions Administrator<br>
     Abilities First, Inc.<br><br>
-    Phone: (845) 485-9803 x1292<br>
-    Fax: 845-320-2047<br>
+    <button type="button" id="ss-call-btn" class="pcontact-link-btn">Call (voice)</button><br>
+    <button type="button" id="ss-fax-btn" class="pcontact-link-btn">Fax number</button><br>
     Email: <a href="mailto:crystaljoneshowe@abilitiesfirstny.org">crystaljoneshowe@abilitiesfirstny.org</a><br>
     70 Overocker Road, Poughkeepsie, NY 12603
   </div>
 
-  <a class="pcontact-btn" style="margin-top:1.5em;" href="https://www.linkedin.com/in/cjoneshowe/">LinkedIn</a>
+  <a class="pcontact-btn" href="/files/crystal-jones-howe-work.vcf">Save My Contact Card</a>
+  <a class="pcontact-btn" href="https://www.linkedin.com/in/cjoneshowe/">LinkedIn</a>
   <a class="pcontact-btn" href="mailto:crystaljoneshowe@abilitiesfirstny.org">Email Me</a>
 </div>
+
+<script>
+  document.getElementById('ss-call-btn').addEventListener('click', function () {
+    var parts = ['9803', '485', '845'];
+    window.location.href = 'tel:+1' + parts.reverse().join('') + ',,1292';
+  });
+  document.getElementById('ss-fax-btn').addEventListener('click', function () {
+    var parts = ['2047', '320', '845'];
+    alert('Fax: (' + parts[2] + ') ' + parts[1] + '-' + parts[0]);
+  });
+</script>

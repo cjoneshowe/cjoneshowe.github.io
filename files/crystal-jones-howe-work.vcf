@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jones-Howe;Crystal;;;
+FN:Crystal Jones-Howe
+TITLE:Smart Solutions Administrator
+ORG:Abilities First\, Inc.
+EMAIL;TYPE=INTERNET,WORK:crystaljoneshowe@abilitiesfirstny.org
+TEL;TYPE=WORK,VOICE:+1-845-485-9803,1292
+TEL;TYPE=WORK,FAX:+1-845-320-2047
+ADR;TYPE=WORK:;;70 Overocker Road;Poughkeepsie;NY;12603;USA
+URL:https://www.abilitiesfirstny.org/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/cjoneshowe
+END:VCARD
