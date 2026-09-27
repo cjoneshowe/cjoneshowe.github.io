@@ -13,7 +13,7 @@ Thanks for connecting! Save my contact card to your phone, or reach out below.
 
 <script>
   document.getElementById('call-btn').addEventListener('click', function () {
-    var parts = ['2161', '209', '646'];
+    var parts = ['3164', '380', '212'];
     window.location.href = 'tel:+1' + parts.reverse().join('');
   });
 </script>
