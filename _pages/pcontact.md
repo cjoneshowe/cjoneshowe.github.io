@@ -1,5 +1,5 @@
 ---
-title: "Work Contact"
+title: "Contact"
 permalink: /pcontact/
 author_profile: false
 ---
@@ -62,10 +62,11 @@ author_profile: false
 </style>
 
 <div id="pcontact-wrap" markdown="0">
+  <img src="/assets/images/abilities-first-logo.png" alt="Abilities First logo" style="max-width:220px; margin-bottom:1em;">
   <h1>SMART SOLUTIONS</h1>
   <p class="tagline">Technology that supports independence at Abilities First.</p>
 
-  <a class="pcontact-btn" href="https://www.abilitiesfirstny.org/">Visit Abilities First</a>
+  <a class="pcontact-btn" href="https://www.abilitiesfirstny.org/" target="_blank" rel="noopener">Visit Abilities First</a>
 
   <div class="pcontact-card">
     <strong>Crystal Jones-Howe</strong><br>
