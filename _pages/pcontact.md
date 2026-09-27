@@ -62,7 +62,7 @@ author_profile: false
 </style>
 
 <div id="pcontact-wrap" markdown="0">
-  <img src="/images/abilities-first-logo.png" alt="Abilities First logo" style="max-width:220px; margin-bottom:1em;">
+  <img src="/images/Abilities-First-logo.png" alt="Abilities First logo" style="max-width:220px; margin-bottom:1em;">
   <h1>SMART SOLUTIONS</h1>
   <p class="tagline">Technology that supports independence at Abilities First.</p>
 
