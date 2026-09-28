@@ -44,7 +44,7 @@ Work experience
     * Deliver weekly Brightspace course announcements and design/grade assignments and challenge activities
     * Provide mentorship and guidance to students pursuing careers in cybersecurity
     * Utilize advanced security tools and techniques to demonstrate cybersecurity best practices
-  * Supervisor: George Berg
+  * Supervisor: Dr. George Berg
 
 * September 2020-September 2024: Adjunct Professor
   * Dutchess Community College
