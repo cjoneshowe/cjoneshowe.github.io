@@ -18,16 +18,6 @@ Education
 
 Work experience
 ======
-* March 2025-April 2026: Sr. IT Support Administrator – Education
-  * Abilities First, Inc.
-  * Duties included:
-    * Managed IT helpdesk operations, resolving a queue of 40+ tickets across 9 program sites supporting education and program service delivery for individuals with intellectual and developmental disabilities
-    * Led device management transition from Meraki to JAMF MDM for adult services devices
-    * Administered Apple School Manager (ASM) enrollment, VPP app deployment, and Apple Configurator 2 provisioning for non-ASM devices
-    * Authored internal training documentation — a Word reference guide and an 11-slide PowerPoint with speaker script — standardizing iPad configuration procedures for the IT team
-    * Coordinated device procurement, deployment, and repairs (OT and speech-therapy iPads) across multiple program locations
-    * Managed knowledge transfer and onboarding of incoming IT staff during role transition
-
 * April 2026-Current: Smart Solutions Administrator
   * Abilities First, Inc.
   * Duties included:
@@ -45,6 +35,16 @@ Work experience
     * Provide mentorship and guidance to students pursuing careers in cybersecurity
     * Utilize advanced security tools and techniques to demonstrate cybersecurity best practices
   * Supervisor: Dr. George Berg
+
+* March 2025-April 2026: Sr. IT Support Administrator – Education
+  * Abilities First, Inc.
+  * Duties included:
+    * Managed IT helpdesk operations, resolving a queue of 40+ tickets across 9 program sites supporting education and program service delivery for individuals with intellectual and developmental disabilities
+    * Led device management transition from Meraki to JAMF MDM for adult services devices
+    * Administered Apple School Manager (ASM) enrollment, VPP app deployment, and Apple Configurator 2 provisioning for non-ASM devices
+    * Authored internal training documentation — a Word reference guide and an 11-slide PowerPoint with speaker script — standardizing iPad configuration procedures for the IT team
+    * Coordinated device procurement, deployment, and repairs (OT and speech-therapy iPads) across multiple program locations
+    * Managed knowledge transfer and onboarding of incoming IT staff during role transition
 
 * September 2020-September 2024: Adjunct Professor
   * Dutchess Community College
