@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Informatics, University at Albany, State University of New York, 2028 (expected)
-* M.Ed. in Educational Technology Specialist, College of Saint Rose, 2014
-* B.T. in Information Technology, focusing on Network Administration & Support, SUNY Cobleskill, 2010 (High Honors)
-* A.S. in Information Management, Dutchess Community College, 2007 (Honors)
+* Ph.D  Informatics, University at Albany, State University of New York, 2028 (expected)
+* M.Ed. Educational Technology Specialist, College of Saint Rose, 2014
+* B.T.  Information Technology, focusing on Network Administration & Support, SUNY Cobleskill, 2010 (High Honors)
+* A.S.  Information Management, Dutchess Community College, 2007 (Honors)
 
 Work experience
 ======
